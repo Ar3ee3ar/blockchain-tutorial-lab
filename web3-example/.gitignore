@@ -1,0 +1,8 @@
+# key
+.env
+
+# environment
+node_modules
+
+#cache
+cache
